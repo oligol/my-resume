@@ -77,7 +77,7 @@ body {
     display: none !important;
 }
 .mobile-element {
-    display: block;
+    display: block !important;
 }
 .accent-btn {
     background-color: var(--c-accent);
